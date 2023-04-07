@@ -7,13 +7,13 @@
 
 <br>
 
-[<img alig ="left" alt ="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />]
+<img alig ="left" alt ="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style=padding-rigth:10px;/>
 
-[<img alig ="left" width="30px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />]
+<img alig ="left" width="30px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style=padding-rigth:10px;/>
 
-<img alig = "left" width="30px" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img alig = "left" width="30px" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style=padding-rigth:10px;/>
 
-<img alig = "left" width="30px" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img alig = "left" width="30px" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style=padding-rigth:10px;/>
 
 <img alig = "left" width="30px" style= "padding-wigth:10px;" src="" />
 
