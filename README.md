@@ -5,7 +5,7 @@
 
 ## Skills
 
-<br 
+<br>
 
 <img alig = "left" width="30px" style= "padding-wigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
