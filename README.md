@@ -5,6 +5,8 @@
 
 ## Skills
 
+<br 
+
 <img alig = "left" width="30px" style= "padding-wigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 <img alig = "left" width="30px" style= "padding-wigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -15,7 +17,7 @@
 
 <img alig = "left" width="30px" style= "padding-wigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 
-
+<br />
 
 ## Contactame
 - [WhatsApp](https://wa.me/542281305392)
