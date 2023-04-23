@@ -4,10 +4,9 @@
 
 **Soy una persona apasionada por la programación y la tecnologia:**
 - 🎓 Actualmente estoy estudiando la [Tecnicatura en Programación en la UTN](https://extensionfra.com.ar/courses/tecnicatura-en-programacion-ingreso/). 
-- 💻 Siempre estoy buscando maneras de mejorar mis habilidades
-- 🛠 pongo en práctica los conceptos aprendidos haciendo algun que otro proyecto personal
+- 💻 Siempre estoy en busca de maneras de mejorar mis habilidades.
+- 🛠  Pongo en práctica los conceptos aprendidos haciendo algun que otro proyecto personal.
 
-<br>
 
 ## My Stats 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=AleFalcone27&count_private=true&show_icons=true&theme=)
