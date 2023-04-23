@@ -5,24 +5,13 @@
 **Soy una persona apasionada por la programación y la tecnologia, actualmente estoy estudiando la [Tecnicatura en Programación en la UTN](https://extensionfra.com.ar/courses/tecnicatura-en-programacion-ingreso/). Siempre estoy buscando maneras de mejorar mis habilidades y pongo en práctica los conceptos aprendidos haciendo algun que otro proyecto personal**
 <br>
 
-
-
-
-
-
-### 👀 Visitor Info
-
-![Hitcount](https://komarev.com/ghpvc/?username=AleFalcone27&color=57bcd9)
-
-
+<br>
 
 ## My Stats 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=AleFalcone27&count_private=true&show_icons=true&theme=)
-![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=AleFalcone27&theme)
-<a href="https://github.com/AleFalcone27/github-stats">
 </a>
 
-
+<br>
 
 ## Skills
 
@@ -40,7 +29,6 @@
 
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" style="padding-right:10px;" />
 
-
 <br>
 
 ## Contactame
@@ -48,3 +36,8 @@
 - [WhatsApp](https://wa.me/542281305392)
 - alejofalcone60@gmail.com
 
+<br>
+
+### 👀 Visitor Info
+
+![Hitcount](https://komarev.com/ghpvc/?username=AleFalcone27&color=57bcd9)
