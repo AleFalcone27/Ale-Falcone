@@ -18,8 +18,7 @@
 
 ## My Stats 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=AleFalcone27&count_private=true&show_icons=true&theme=)
-![GitHub Streak](https://streak-stats.demolab.com/?user=jAleFalcone27&theme=)
-![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=AleFalcone27&theme=	)
+![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=AleFalcone27&theme)
 <a href="https://github.com/AleFalcone27/github-stats">
 </a>
 
