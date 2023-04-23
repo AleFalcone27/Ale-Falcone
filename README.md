@@ -11,7 +11,6 @@
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=AleFalcone27&count_private=true&show_icons=true&theme=)
 </a>
 
-<br>
 
 ## Skills
 
