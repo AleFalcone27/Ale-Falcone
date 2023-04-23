@@ -4,7 +4,7 @@
 
 **Soy una persona apasionada por la programación y la tecnologia:**
 - 🎓 Actualmente estoy estudiando la [Tecnicatura en Programación en la UTN](https://extensionfra.com.ar/courses/tecnicatura-en-programacion-ingreso/). 
-- 💻 Siempre estoy en busca de maneras de mejorar mis habilidades.
+- 💻 Siempre estoy en buscando maneras de mejorar mis habilidades.
 - 🛠  Pongo en práctica los conceptos aprendidos haciendo algun que otro proyecto personal.
 
 
@@ -35,7 +35,7 @@
 ## Contactame
 
 - [WhatsApp](https://wa.me/542281305392)
-- alejofalcone60@gmail.com
+- Alejofalcone60@gmail.com
 
 
 ## 👀 Visitor Info
