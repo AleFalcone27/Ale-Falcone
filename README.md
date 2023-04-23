@@ -32,10 +32,7 @@
 
 
 ## Contactame
-
 - [WhatsApp](https://wa.me/542281305392)
-- Alejofalcone60@gmail.com
-
 
 ## 👀 Visitor Info
 
