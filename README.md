@@ -28,7 +28,7 @@
 
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" style="padding-right:10px;" />
 
-<img align="left" alt="JavaScript" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-line.svg" style="padding-right:10px;" />
 
 <img align="left" alt="JavaScript" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" style="padding-right:10px;" />
 
