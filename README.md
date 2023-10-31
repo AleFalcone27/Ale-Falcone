@@ -45,13 +45,12 @@
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Visual Studio Code" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dot-net/dot-net-original-wordmark.svg" style="padding-right:10px;" />
 
 <br>
 
-## Contactame(https://wa.me/542281305392)
+## [Contactame](https://wa.me/542281305392)
 
 ## 👀 Visitor Info
 
