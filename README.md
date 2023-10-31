@@ -1,5 +1,7 @@
 # 🧑‍💻 Alejo Falcone
 
+<img src="https://media3.giphy.com/media/rJsMvyk7AHHiW9qKLM/giphy.gif?cid=ecf05e47gni0z1yw063eanoe6xlsofbu03io2tprfzqdwill&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="40" height="40" />
+
 ## About me
 
 **Soy una persona apasionada por la programación y la tecnología:**
