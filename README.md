@@ -1,8 +1,8 @@
 # 🧑‍💻 Alejo Falcone
 
-## Sobre mí
+## About me
 
-**Soy una persona apasionada por la programación y la tecnologia:**
+**Soy una persona apasionada por la programación y la tecnología:**
 - 🎓 Actualmente estoy estudiando la [Tecnicatura en Programación en la UTN](https://extensionfra.com.ar/courses/tecnicatura-en-programacion-ingreso/). 
 - 💻 Siempre estoy en buscando maneras de mejorar mis habilidades.
 - 🛠  Pongo en práctica los conceptos aprendidos haciendo algun que otro proyecto personal.
@@ -27,6 +27,10 @@
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" style="padding-right:10px;" />
 
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" style="padding-right:10px;" />
+
+<img align="left" alt="JavaScript" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="JavaScript" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" style="padding-right:10px;" />
 
 <br>
 
