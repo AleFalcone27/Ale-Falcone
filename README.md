@@ -25,7 +25,6 @@
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" style="padding-right:10px;" />
 
 
-
 <img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-line.svg" style="padding-right:10px;" />
 
 <img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" style="padding-right:10px;" />
@@ -34,8 +33,7 @@
 
 <img align="left" alt="JavaScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" style="padding-right:10px;" />
 
-<br>
-
+---
 
 ## Tecnologías
 
@@ -48,7 +46,7 @@
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dot-net/dot-net-original-wordmark.svg" style="padding-right:10px;" />
 
-<br>
+---
 
 ## [Contactame](https://wa.me/542281305392)
 
