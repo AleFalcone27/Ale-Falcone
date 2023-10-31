@@ -1,6 +1,6 @@
 # 🧑‍💻 Alejo Falcone
 
-<img src="https://media3.giphy.com/media/rJsMvyk7AHHiW9qKLM/giphy.gif?cid=ecf05e47gni0z1yw063eanoe6xlsofbu03io2tprfzqdwill&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" height="200" />
+![gif](https://github.com/AleFalcone27/AleFalcone27/assets/83794890/b8fd3fc3-9d91-444e-ac48-e3666cc30aed)
 
 ## About me
 
