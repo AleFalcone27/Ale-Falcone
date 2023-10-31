@@ -54,8 +54,6 @@
 
 ## [Contactame](https://wa.me/542281305392)
 
-<br>
-
-## 👀 Visitor Info
+---
 
 ![Hitcount](https://komarev.com/ghpvc/?username=AleFalcone27&color=57bcd9)
