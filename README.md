@@ -2,7 +2,7 @@
 
 ## About me
 
-**Soy una apasionado del fotware:**
+**Soy una apasionado del desarrollo de software:**
 - 🎓 Actualmente estoy estudiando la [Tecnicatura en Programación en la UTN](https://extensionfra.com.ar/courses/tecnicatura-en-programacion-ingreso/). 
 - 💻 Siempre estoy en buscando maneras de mejorar mis habilidades.
 - 🛠  Pongo en práctica los conceptos aprendidos haciendo algun que otro proyecto personal.
