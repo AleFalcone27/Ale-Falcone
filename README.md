@@ -76,8 +76,7 @@
 
 ## My Stats 🧮
 
-<img src="https://camo.githubusercontent.com/4549ecbc0710a44c7f317bacef431d3a2b133e33567021a2dccbf0aa32f30665/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374">
-</img>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleFalcone27&layout=compact)
 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=AleFalcone27&count_private=true&show_icons=true&theme=)
 
@@ -89,7 +88,6 @@
         <img alt="LinkedIn" style="max-width: 100%;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </span>
-
 
 
 
