@@ -1,21 +1,16 @@
 # 🧑‍💻 Alejo Falcone
 
-## About me
-
-**Soy una apasionado del desarrollo de software:**
-- 🎓 Actualmente estoy estudiando la [Tecnicatura en Programación en la UTN](https://extensionfra.com.ar/courses/tecnicatura-en-programacion-ingreso/). 
-- 💻 Siempre estoy en buscando maneras de mejorar mis habilidades.
-- 🛠  Pongo en práctica los conceptos aprendidos haciendo algun que otro proyecto personal.
-
-
-## Socials
+**I'm a code lover 🫀**
+- 🎓 Currently, I'm pursuing an Associate's degree in [information systems at UTN](https://extensionfra.com.ar/courses/tecnicatura-en-programacion-ingreso/).
+- 💻 I'm always seeking ways to enhance my skills.
+- 🛠 I put into practice the concepts learned by working on various personal projects.
 
 
 ## My Stats 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=AleFalcone27&count_private=true&show_icons=true&theme=)
 
 
-## Stack
+## Stack 🛠️
 
 <div style="display: flex;">
 	<span style="display: inline-block; margin-right: 10px;">
@@ -74,13 +69,17 @@
 
 ## Contact me
 
-<a href="https://www.linkedin.com/in/alejo-falcone/" > 
-	<img align="left" alt="Python" style="max-width: 100% min-heigth: ;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<span style="display: inline-block; margin-right: 10px;">
+    <a href="https://www.linkedin.com/in/alejo-falcone/" target="_blank">
+        <img alt="LinkedIn" style="max-width: 100%;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+</span>
 
-<a href=mailto:alejofalcone60@gmail.com>
-	<img align="left" alt="Gmail" style="max-width: 100%;"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />	
-</a>
+<span style="display: inline-block; margin-right: 10px;">
+    <a href="mailto:alejofalcone60@gmail.com" target="_blank">
+        <img alt="Gmail" style="max-width: 100%;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+</span>
 
 ---
 <img src="https://media3.giphy.com/media/rJsMvyk7AHHiW9qKLM/giphy.gif?cid=ecf05e47gni0z1yw063eanoe6xlsofbu03io2tprfzqdwill&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="850" height="400" />
