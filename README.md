@@ -18,10 +18,14 @@
 ## Stack
 
 <p style="dir:auto;">
-	
-<img align="left" alt="Python" style="max-width: 100% padding-top: 4px;" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-	
-<img align="left" alt="HTML5" style="max-width: 100%; padding-top: 10px;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+<a>
+<img align="left" alt="Python" style="max-width: 100% padding-top: 4px;" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />	
+</a>
+
+ <a>
+<img align="left" alt="HTML5" style="max-width: 100%; padding-top: 10px;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />	
+</a>
 	
 <img align="left" alt="CSS3" style="max-width: 100%; padding-top: 10px;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 	
