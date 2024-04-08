@@ -42,17 +42,15 @@
 <img align="left" alt="Arduino" style="max-width: 100%;"  src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 
 
-
-
 ---
 ## Contact me
 
-<a href=alejofalcone60@gmail.com>
-	<img align="left" alt="Gmail" style="max-width: 100%;"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />	
-</a>
-
 <a href="https://www.linkedin.com/in/alejo-falcone/" > 
 	<img align="left" alt="Python" style="max-width: 100% min-heigth: ;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href=mailto:alejofalcone60@gmail.com>
+	<img align="left" alt="Gmail" style="max-width: 100%;"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />	
 </a>
 
 ---
