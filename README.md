@@ -42,11 +42,23 @@
 </span>
 
 <span style="display: inline-block; margin-right: 10px;">
+    <img alt="FastAPI" style="max-width: 100%; padding-top: 10px;" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />
+</span>
+
+<span style="display: inline-block; margin-right: 10px;">
     <img alt="Linux" style="max-width: 100%; padding-top: 10px;" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </span>
 
 <span style="display: inline-block; margin-right: 10px;">
     <img alt="Sqlite" style="max-width: 100%; margin-top: 4px;" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</span>
+
+<span style="display: inline-block; margin-right: 10px;">
+    <img alt="Php" style="max-width: 100%; margin-top: 4px;" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</span>
+
+<span style="display: inline-block; margin-right: 10px;">
+    <img alt="MicrosftSQLServer" style="max-width: 100%; margin-top: 10px;"  src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </span>
 
 <span style="display: inline-block; margin-right: 10px;">
