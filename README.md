@@ -18,12 +18,12 @@
 ## Stack
 
 <div style="display: flex;">
-    <div style="margin-right: 10px;">
-        <img alt="Python" style="max-width: 100%; padding-top: 4px;" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-    </div>
-    <div style="margin-right: 10px;">
-        <img alt="HTML5" style="max-width: 100%; padding-top: 10px;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    </div>
+	<span style="display: inline-block; margin-right: 10px;">
+    <img alt="Python" style="max-width: 100%; padding-top: 4px;" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+	</span>
+	<span style="display: inline-block; margin-right: 10px;">
+    <img alt="Python" style="max-width: 100%; padding-top: 4px;" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+	</span>
     <div style="margin-right: 10px;">
         <img alt="CSS3" style="max-width: 100%; padding-top: 10px;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     </div>
