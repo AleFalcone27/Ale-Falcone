@@ -76,7 +76,7 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AleFalcone27&card_width=100vw&theme=jolly&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AleFalcone27&card_width=1000px&theme=jolly&layout=compact)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AleFalcone27&theme=jolly">
 
 
