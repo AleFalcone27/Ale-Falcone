@@ -74,8 +74,10 @@
 
 </div>
 
-
+---
+<div style="width:100%: justify-content:center;">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleFalcone27&theme=jolly&layout=compact)
+</div>
 
 
 ## Socials 🗺️
