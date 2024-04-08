@@ -74,10 +74,8 @@
 
 </div>
 
-## My Stats 🧮
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleFalcone27&theme=radical&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleFalcone27&theme=jolly&layout=compact)
 
 
 ## Socials 🗺️
