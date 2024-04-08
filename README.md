@@ -76,10 +76,9 @@
 
 ---
 
-<div style="width:100%: justify-content:center;">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleFalcone27&theme=jolly&layout=compact"></div>
+<div style="max-width: 600px; margin: 0 auto;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleFalcone27&theme=jolly&layout=compact">
 </div>
-
 
 ## Socials 🗺️
 
@@ -88,7 +87,6 @@
         <img alt="LinkedIn" style="max-width: 100%;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </span>
-
 
 
 
