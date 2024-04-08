@@ -1,9 +1,9 @@
 # 🧑‍💻 Alejo Falcone
 
-**I'm a code lover 🫀**
+**I'm a software ~~developer~~ lover 🫀**
 - 🎓 Currently, I'm pursuing an Associate's degree in [information systems at UTN](https://extensionfra.com.ar/courses/tecnicatura-en-programacion-ingreso/).
 - 💻 I'm always seeking ways to enhance my skills.
-- 🛠 I put into practice the concepts learned by working on various personal projects.
+- 💡 I put into practice the concepts learned by working on various personal projects.
 
 
 ## My Stats 
