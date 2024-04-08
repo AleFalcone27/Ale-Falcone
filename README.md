@@ -85,7 +85,7 @@
     </div>
 </div>
 
-![information systems at UTN](https://github-readme-activity-graph.vercel.app/graph?username=AleFalcone27&theme=jolly)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AleFalcone27&theme=jolly&layout=compact)![](https://github-readme-stats.vercel.app/api?username=AleFalcone27&show_icons=true&theme=jolly)
 
 
 <div style="max-width: 700px; margin: 0 auto; display: inline; ">
