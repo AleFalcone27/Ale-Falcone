@@ -81,12 +81,12 @@
 </div>
 
 
-<div style="max-width: 700px; margin: 0 auto; display: inline-block; ">
+<div style="max-width: 700px; margin: 0 auto; display: inline; ">
     <img src="https://github-readme-stats.vercel.app/api?username=AleFalcone27&show_icons=true&theme=jolly">
 </div>
 
 
-<div style="max-width: 700px; margin: 0 auto; display: inline-block; ">
+<div style="max-width: 700px; margin: 0 auto; display: inline; ">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=AleFalcone27&theme=jolly">
 </div>
 
