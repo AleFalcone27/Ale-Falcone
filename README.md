@@ -84,7 +84,7 @@
 
 <div style="display: flex; justify-content: center;">
 	
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AleFalcone27&theme=jolly&layout=compact)![](https://github-readme-stats.vercel.app/api?username=AleFalcone27&show_icons=true&theme=jolly)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AleFalcone27&theme=jolly&layout=Donut_Chart_layout)![](https://github-readme-stats.vercel.app/api?username=AleFalcone27&show_icons=true&theme=jolly)
 	
 </div>
 
