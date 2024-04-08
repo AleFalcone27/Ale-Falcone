@@ -95,8 +95,5 @@
     </a>
 </span>
 
-
-
-<img src="https://media3.giphy.com/media/rJsMvyk7AHHiW9qKLM/giphy.gif?cid=ecf05e47gni0z1yw063eanoe6xlsofbu03io2tprfzqdwill&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="850" height="400" />
-
 ![Hitcount](https://komarev.com/ghpvc/?username=AleFalcone27&color=57bcd9)
+![Hitcount](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{AleFalcone27}1212%2Fhit-counter)
