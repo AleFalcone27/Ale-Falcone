@@ -19,9 +19,9 @@
 
 <img align="left" alt="Python" style="max-width: 100% padding-top: 4px;" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
-<img align="left" alt="HTML5" style="max-width: 100%; padding-top: 4px;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" alt="HTML5" style="max-width: 100%; padding-top: 10px;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
-<img align="left" alt="CSS3" style="max-width: 100%; padding-top: 4px;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="left" alt="CSS3" style="max-width: 100%; padding-top: 10px;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 <img align="left" alt="JavaScript" style="max-width: 100%; padding-top: 4px; " src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
@@ -31,7 +31,7 @@
  
 <img align="left" alt="C#" style="max-width: 100%; padding-top: 4px;" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 
-<img align="left" alt="Linux" style="max-width: 100%; padding-top: 4px;" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img align="left" alt="Linux" style="max-width: 100%; padding-top: 10px;" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 <img align="left" alt="Sqlite" style="max-width: 100%; padding-top: 4px;" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 
