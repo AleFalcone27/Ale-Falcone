@@ -85,6 +85,8 @@
     </div>
 </div>
 
+![information systems at UTN](https://github-readme-activity-graph.vercel.app/graph?username=AleFalcone27&theme=jolly)
+
 
 <div style="max-width: 700px; margin: 0 auto; display: inline; ">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=AleFalcone27&theme=jolly">
