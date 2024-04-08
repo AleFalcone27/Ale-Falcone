@@ -78,7 +78,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleFalcone27&layout=compact)
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=AleFalcone27&count_private=true&show&theme=github_dark_icons=true&theme=)
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=AleFalcone27&count_private=true&show&theme=radical_icons=true&theme=)
 
 
 ## Socials 🗺️
