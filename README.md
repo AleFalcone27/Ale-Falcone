@@ -76,17 +76,17 @@
 
 ---
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AleFalcone27&card_width=100vw&theme=jolly&layout=compact)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AleFalcone27&theme=jolly">
 
 
 ---
 
-<div style="display: flex; justify-content: center;">
+
 	
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AleFalcone27&card_width=500pxtheme=jolly&layout=donut)![](https://github-readme-stats.vercel.app/api?username=AleFalcone27&show_icons=true&theme=jolly)
-	
-</div>
+
+
+
 
 
 
