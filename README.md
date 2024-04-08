@@ -35,7 +35,7 @@
 
 <img align="left" alt="Sqlite" style="max-width: 100%; margin-top: 4px;" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 
-<img align="left" alt="MongoDB" style="max-width: 100%; padding-top: 4px;"  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img align="left" alt="MongoDB" style="max-width: 100%; margin-top: 10px;"  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 <img align="left" alt="NodeJS" style="max-width: 100%; padding-top: 4px;" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
