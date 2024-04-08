@@ -76,12 +76,12 @@
 
 ---
 
-<div style="max-width: 700px; margin: 0 auto;">
+<div style="max-width: 700px; margin: 0 auto; display: inline-block";>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleFalcone27&theme=jolly&layout=compact">
 </div>
 
 
-<div style="max-width: 700px; margin: 0 auto;">
+<div style="max-width: 700px; margin: 0 auto; display: inline-block; ">
     <img src="https://github-readme-stats.vercel.app/api?username=AleFalcone27&show_icons=true&theme=jolly">
 </div>
 
