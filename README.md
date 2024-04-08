@@ -17,7 +17,7 @@
 
 ## Stack
 
-<div style="display: flex; justify-content: space-around;" >
+<p style="">
 	
 <img align="left" alt="Python" style="max-width: 100% padding-top: 4px;" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 	
@@ -43,7 +43,7 @@
 	
 <img align="left" alt="Arduino" style="max-width: 100%; padding-top: 4px; "  src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 
-</div>
+<p>
 
 
 
