@@ -54,6 +54,10 @@
 </span>
 
 <span style="display: inline-block; margin-right: 10px;">
+    <img alt="React" style="max-width: 100%; margin-top: 4px;" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</span>
+
+<span style="display: inline-block; margin-right: 10px;">
     <img alt="Php" style="max-width: 100%; margin-top: 4px;" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </span>
 
