@@ -1,4 +1,4 @@
-# <u>🧑‍💻 ALEJO FALCONE<u>
+# 🧑‍💻 ALEJO FALCONE
 
 **_I'm a software_ ~~developer~~ _lover_ 🫀**
 - 🎓 Currently, I'm pursuing an Associate's degree in [information systems at UTN](https://extensionfra.com.ar/courses/tecnicatura-en-programacion-ingreso/).
