@@ -25,7 +25,7 @@
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 
 
-<img align="left" style="width:100px; height:50px;" src="(https://camo.githubusercontent.com/6f190b28a66241a16cc31010fe4ce40fcfde787a4322a663b01517dd18a21192/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532332d2532333233393132302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465)" />
+<img align="left" style="width:100px; height:50px;" src="https://camo.githubusercontent.com/6f190b28a66241a16cc31010fe4ce40fcfde787a4322a663b01517dd18a21192/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532332d2532333233393132302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465" />
 
 <img align="left" alt="JavaScript" style="width:50px; height:50px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" style="padding-right:10px;" />
 
