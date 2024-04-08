@@ -50,7 +50,7 @@
 </span>
 
 <span style="display: inline-block; margin-right: 10px;">
-    <img alt="Sqlite" style="max-width: 100%; margin-top: 4px;" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img alt="MySQL" style="max-width: 100%; margin-top: 4px;" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </span>
 
 <span style="display: inline-block; margin-right: 10px;">
