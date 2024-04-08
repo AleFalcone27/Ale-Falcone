@@ -86,14 +86,11 @@
 </div>
 
 
+<div style="max-width: 700px; margin: 0 auto; display: inline-block; ">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AleFalcone27&theme=jolly">
+</div>
 
-## Socials 🗺️
 
-<span style="display: inline-block; margin-right: 10px;">
-    <a href="https://www.linkedin.com/in/alejo-falcone/" target="_blank">
-        <img alt="LinkedIn" style="max-width: 100%;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-</span>
 
 ![Hitcount](https://komarev.com/ghpvc/?username=AleFalcone27&color=57bcd9)
-![Hitcount](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{AleFalcone27}1212%2Fhit-counter)
+
