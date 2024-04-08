@@ -17,7 +17,7 @@
 
 ## Stack
 
-<p style="">
+<p style="dir:auto;">
 	
 <img align="left" alt="Python" style="max-width: 100% padding-top: 4px;" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 	
@@ -46,8 +46,8 @@
 <p>
 
 
+----
 
----
 ## Contact me
 
 <a href="https://www.linkedin.com/in/alejo-falcone/" > 
