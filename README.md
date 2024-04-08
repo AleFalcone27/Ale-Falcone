@@ -77,10 +77,10 @@
 ---
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AleFalcone27&layout=compact&langs_count=8&card_width=360&theme=holi"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AleFalcone27&layout=compact&langs_count=8&card_width=360&theme=transparent "/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AleFalcone27&theme=holi"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AleFalcone27&theme=transparent "/>
 </a>
 
 ---
