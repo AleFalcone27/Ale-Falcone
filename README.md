@@ -5,11 +5,6 @@
 - 💻 I'm always seeking ways to enhance my skills.
 - 💡 I put into practice the concepts learned by working on various personal projects.
 
-
-## My Stats 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=AleFalcone27&count_private=true&show_icons=true&theme=)
-
-
 ## Stack 🛠️
 
 <div style="display: flex;">
@@ -79,25 +74,21 @@
 
 </div>
 
-
-
 ----
 
-## Contact me
+## Socials 🗺️
 
 <span style="display: inline-block; margin-right: 10px;">
     <a href="https://www.linkedin.com/in/alejo-falcone/" target="_blank">
         <img alt="LinkedIn" style="max-width: 100%;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </span>
-
-<span style="display: inline-block; margin-right: 10px;">
-    <a href="mailto:alejofalcone60@gmail.com" target="_blank">
-        <img alt="Gmail" style="max-width: 100%;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-</span>
-
 ---
+
+## My Stats 
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=AleFalcone27&count_private=true&show_icons=true&theme=)
+
+
 <img src="https://media3.giphy.com/media/rJsMvyk7AHHiW9qKLM/giphy.gif?cid=ecf05e47gni0z1yw063eanoe6xlsofbu03io2tprfzqdwill&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="850" height="400" />
 
 ![Hitcount](https://komarev.com/ghpvc/?username=AleFalcone27&color=57bcd9)
