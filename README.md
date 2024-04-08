@@ -10,14 +10,9 @@
 
 ## Socials
 
-<a href="https://www.linkedin.com/in/alejo-falcone/" > 
-	<img align="left" alt="Python" style="max-width: 100% min-heigth: ;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 ## My Stats 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=AleFalcone27&count_private=true&show_icons=true&theme=)
-
-
 
 
 ## Stack
@@ -52,7 +47,14 @@
 ---
 ## Contact me
 
-<img align="left" alt="Gmail" style="max-width: 100%;"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />	
+<a href=alejofalcone60@gmail.com>
+	<img align="left" alt="Gmail" style="max-width: 100%;"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />	
+</a>
+
+<a href="https://www.linkedin.com/in/alejo-falcone/" > 
+	<img align="left" alt="Python" style="max-width: 100% min-heigth: ;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 ---
 <img src="https://media3.giphy.com/media/rJsMvyk7AHHiW9qKLM/giphy.gif?cid=ecf05e47gni0z1yw063eanoe6xlsofbu03io2tprfzqdwill&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="850" height="400" />
 
