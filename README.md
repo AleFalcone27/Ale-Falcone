@@ -17,37 +17,45 @@
 
 ## Stack
 
-<p style="dir:auto;">
+<div style="display: flex;">
+    <div style="margin-right: 10px;">
+        <img alt="Python" style="max-width: 100%; padding-top: 4px;" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+    </div>
+    <div style="margin-right: 10px;">
+        <img alt="HTML5" style="max-width: 100%; padding-top: 10px;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    </div>
+    <div style="margin-right: 10px;">
+        <img alt="CSS3" style="max-width: 100%; padding-top: 10px;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    </div>
+    <div style="margin-right: 10px;">
+        <img alt="JavaScript" style="max-width: 100%; margin-top: 4px; " src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    </div>
+    <div style="margin-right: 10px;">
+        <img alt="Flask" style="max-width: 100%; padding-top: 4px;" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+    </div>
+    <div style="margin-right: 10px;">
+        <img alt="C++" style="max-width: 100%; padding-top: 4px;" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    </div>
+    <div style="margin-right: 10px;">
+        <img alt="C#" style="max-width: 100%; margin-top: 4px;" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+    </div>
+    <div style="margin-right: 10px;">
+        <img alt="Linux" style="max-width: 100%; padding-top: 10px;" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    </div>
+    <div style="margin-right: 10px;">
+        <img alt="Sqlite" style="max-width: 100%; margin-top: 4px;" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+    </div>
+    <div style="margin-right: 10px;">
+        <img alt="MongoDB" style="max-width: 100%; margin-top: 10px;"  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    </div>
+    <div style="margin-right: 10px;">
+        <img alt="NodeJS" style="max-width: 100%; padding-top: 4px;" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    </div>
+    <div style="margin-right: 10px;">
+        <img alt="Arduino" style="max-width: 100%; padding-top: 4px; "  src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+    </div>
+</div>
 
-<a>
-<img align="left" alt="Python" style="max-width: 100% padding-top: 4px;" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />	
-</a>
-
- <a>
-<img align="left" alt="HTML5" style="max-width: 100%; padding-top: 10px;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />	
-</a>
-	
-<img align="left" alt="CSS3" style="max-width: 100%; padding-top: 10px;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-	
-<img align="left" alt="JavaScript" style="max-width: 100%; margin-top: 4px; " src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-	
-<img align="left" alt="Flask" style="max-width: 100%; padding-top: 4px;" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-		
-<img align="left" alt="C++" style="max-width: 100%; padding-top: 4px;" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-	 
-<img align="left" alt="C#" style="max-width: 100%; margin-top: 4px;" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-	
-<img align="left" alt="Linux" style="max-width: 100%; padding-top: 10px;" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-	
-<img align="left" alt="Sqlite" style="max-width: 100%; margin-top: 4px;" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-	
-<img align="left" alt="MongoDB" style="max-width: 100%; margin-top: 10px;"  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-	
-<img align="left" alt="NodeJS" style="max-width: 100%; padding-top: 4px;" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-	
-<img align="left" alt="Arduino" style="max-width: 100%; padding-top: 4px; "  src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-
-<p>
 
 
 ----
